@@ -1,14 +1,14 @@
 ### WhiteStack Challenge2
 ## Documentación
 
-#Descripción del Challenge
+# Descripción del Challenge
 
 Se desplegó una aplicación web básica (Nginx) en el namespace Challenger-009. Posteriormente, Se configuraron los recursos y herramientas de monitoreo necesarios para obtener y visualizar las métricas expuestas por la aplicación desplegada. 
 Las herramientas de monitoreo que se configuraron fueron: 
     • Prometheus (Proporcionado por Whitestack)
     • Grafana (Desplegado localmente via Docker)
 
-#Problemas durante el despliegue y soluciones
+# Problemas durante el despliegue y soluciones
 
 Durante el proceso de despliegue de la solución se encontraron algunos problemas los cuales se describen a continuación:
 
@@ -28,7 +28,7 @@ Promtool
 
 Promtool dio errores de apiversion y fieldgroups, no se logro resolver el problema de la herramienta.
 
-#Creacion de Dashboard y Alertas
+# Creacion de Dashboard y Alertas
 
 Para el primer punto del panel de Stats se decidio colocar los datos basicos de monitoreo del servicio para poder tener un vistazo rapido del status, se definieron 4 metricas las cuales se colocaron en el Panel.
 
