@@ -1,3 +1,3 @@
-Alertas
+Alert Rules
 
-Archivo YAML de Alertas
+Archivo YAML de Reglas de Alertas
