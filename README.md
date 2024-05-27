@@ -1,5 +1,5 @@
-## Challenge2
-WhiteStack Challenge 2
+### WhiteStack Challenge2
+## Documentación
 
 #Descripción del Challenge
 
