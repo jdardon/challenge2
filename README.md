@@ -18,7 +18,7 @@ En un principio Prometheus no descubría el service monitor por lo que la soluci
 
 Data Source de Grafana
 
-El data source de grafana no lograba conectarse con Prometheus a pesar de que se había configurado el Port Forwarding en un principio, esto se logro solucionar colocando en la url en lugar de una ip el name: http://host.docker.internal:<PUERTO de PORTFORWARDING>
+El data source de grafana no lograba conectarse con Prometheus a pesar de que se había configurado el Port Forwarding en un principio, esto se logro solucionar colocando en la url en lugar de una ip el name: http://host.docker.internal:XXXXX
 
 Patch
 
